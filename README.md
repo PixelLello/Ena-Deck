@@ -1,6 +1,6 @@
 ![alt text](ModLogo.png)
 
-#This Balatro Mod adds Characters from the ENA seies by Joel G
+# This Balatro Mod adds Characters from the ENA seies by Joel G
 
 ![alt text](AllCards.png)
 
