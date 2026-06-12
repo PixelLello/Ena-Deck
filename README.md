@@ -7,9 +7,9 @@ There Low & High Contrast Versions of all the Cards
 
 ## ♥ Hearts ♥
 
-Jack - Shepard (Temptation Stairway)
+**Jack - Shepard** (Temptation Stairway)
 
-Queen - BBQ ENA (Dream BBQ)
+**Queen - BBQ ENA** (Dream BBQ)
 
 King - Theodora (Dream BBQ)
 
