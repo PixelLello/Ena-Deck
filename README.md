@@ -11,39 +11,39 @@ There Low & High Contrast Versions of all the Cards
 
 **Queen - BBQ ENA** (Dream BBQ)
 
-King - Theodora (Dream BBQ)
+**King - Theodora** (Dream BBQ)
 
-Ace - Jester (Dream BBQ)
+**Ace - Jester** (Dream BBQ)
 
 
 ## ♦ Diamonds ♦
 
-Jack - Taski Maiden (Dream BBQ)
+**Jack - Taski Maiden** (Dream BBQ)
 
-Queen - Coral Glasses (Dream BBQ)
+**Queen - Coral Glasses** (Dream BBQ)
 
-King - Dratula (Dream BBQ)
+**King - Dratula** (Dream BBQ)
 
-Ace - Hourglass Dog (Series & Joel G's Avatar)
+**Ace - Hourglass Dog** (Series & Joel G's Avatar)
 
 
 ## ♣ Clubs ♣
 
-Jack - The Shaman (Dream BBQ)
+**Jack - The Shaman** (Dream BBQ)
 
-Queen - ENA (Series)
+**Queen - ENA** (Series)
 
-King - Ulysses (Temptation Stairway)
+**King - Ulysses** (Temptation Stairway)
 
-Ace - The Mask (Power of Potluck)
+**Ace - The Mask** (Power of Potluck)
 
 
 ## ♠ Spades ♠
 
-Jack - Hoarder Alex (Dream BBQ)
+**Jack - Hoarder Alex** (Dream BBQ)
 
-Queen - Merci (Extinction Party)
+**Queen - Merci** (Extinction Party)
 
-King - Froggy (Dream BBQ)
+**King - Froggy** (Dream BBQ)
 
-Ace - Moony (Series)
+**Ace - Moony** (Series)
