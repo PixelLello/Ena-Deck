@@ -5,7 +5,7 @@ This Balatro Mod adds Characters from the ENA seies by Joel G
 There Low & High Contrast Versions of all the Cards
 
 
-## H2♥ Hearts ♥
+## ♥ Hearts ♥
 
 Jack - Shepard (Temptation Stairway)
 
@@ -16,7 +16,7 @@ King - Theodora (Dream BBQ)
 Ace - Jester (Dream BBQ)
 
 
-♦ Diamonds ♦
+## ♦ Diamonds ♦
 
 Jack - Taski Maiden (Dream BBQ)
 
@@ -27,7 +27,7 @@ King - Dratula (Dream BBQ)
 Ace - Hourglass Dog (Series & Joel G's Avatar)
 
 
-♣ Clubs ♣
+## ♣ Clubs ♣
 
 Jack - The Shaman (Dream BBQ)
 
@@ -38,7 +38,7 @@ King - Ulysses (Temptation Stairway)
 Ace - The Mask (Power of Potluck)
 
 
-♠ Spades ♠
+## ♠ Spades ♠
 
 Jack - Hoarder Alex (Dream BBQ)
 
