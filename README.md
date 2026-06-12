@@ -3,43 +3,43 @@ This Balatro Mod adds Characters from the ENA seies by Joel G
 
 ♥ Hearts ♥
 
-Jack - Shepard
+Jack - Shepard (Temptation Stairway)
 
-Queen - BBQ ENA
+Queen - BBQ ENA (Dream BBQ)
 
-King - Theodora
+King - Theodora (Dream BBQ)
 
-Ace - Jester
+Ace - Jester (Dream BBQ)
 
 
 ♦ Diamonds ♦
 
-Jack - Taski Maiden
+Jack - Taski Maiden (Dream BBQ)
 
-Queen - Coral Glasses
+Queen - Coral Glasses (Dream BBQ)
 
-King - Dratula
+King - Dratula (Dream BBQ)
 
-Ace - Hourglass Dog
+Ace - Hourglass Dog (Series & Joel G's Avatar)
 
 
 ♣ Clubs ♣
 
-Jack - The Shaman
+Jack - The Shaman (Dream BBQ)
 
-Queen - Series ENA
+Queen - ENA (Series)
 
-King - 
+King - Ulysses (Temptation Stairway)
 
-Ace - The Mask
+Ace - The Mask (Power of Potluck)
 
 
 ♠ Spades ♠
 
-Jack - 
+Jack - Hoarder Alex (Dream BBQ)
 
-Queen
+Queen - Merci (Extinction Party)
 
-King
+King - Froggy (Dream BBQ)
 
-Ace
+Ace - Moony (Series)
