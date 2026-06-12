@@ -1,6 +1,7 @@
 ![alt text](ModLogo.png)
 
 This Balatro Mod adds Characters from the ENA seies by Joel G
+
 There Low & High Contrast Versions of all the Cards
 
 
