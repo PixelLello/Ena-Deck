@@ -4,6 +4,7 @@ This Balatro Mod adds Characters from the ENA seies by Joel G
 
 There Low & High Contrast Versions of all the Cards
 
+![alt text](AllCards.png)
 
 ## ♥ Hearts ♥
 
