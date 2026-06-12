@@ -1,4 +1,4 @@
-![alt text](image-url)
+![alt text](ModLogo.png)
 
 This Balatro Mod adds Characters from the ENA seies by Joel G
 
